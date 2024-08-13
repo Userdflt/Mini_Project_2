@@ -1,10 +1,10 @@
-# Mini_Project_2
 # **NASA Outgassing Materials Data Processing**
 
 ## Contents
 
 1. **Data Preprocessing**
     - Cleaning and feature extraction code
+    - [View detailed notebook](./NASA_Outgassing_Materials_Data_Processing.ipynb)
 
 ## **1. Data Preprocessing**
 
@@ -45,6 +45,16 @@
 
 ---
 
+# **NASA Outgassing Materials Exploratory Data Analysis (EDA)**
+
+## Contents
+
+- Detailed analysis and visualization of the cleaned dataset.
+- Identification of trends and insights from the data.
+- [View detailed notebook](./NASA_Outgassing_Materials_EDA.ipynb)
+
+---
+
 # **NASA Outgassing Materials ML Modelling**
 
 ## Contents
@@ -57,6 +67,9 @@
     - Classification Models
 4. **Best Model Selection**
 5. **Conclusion**
+6. **Model Pipeline**
+    - [View detailed notebook](./NASA_Outgassing_Materials_ML_Modelling.ipynb)
+    - [View ML pipeline notebook](./NASA_Outgassing_Materials_ML_Pipeline.ipynb)
 
 ## **1. Define Goals**
 
@@ -114,5 +127,11 @@
 ---
 
 # END
+
+*For further details, please refer to the following notebooks:*
+- [NASA Outgassing Materials Data Processing](./NASA_Outgassing_Materials_Data_Processing.ipynb)
+- [NASA Outgassing Materials Exploratory Data Analysis (EDA)](./NASA_Outgassing_Materials_EDA.ipynb)
+- [NASA Outgassing Materials ML Modelling](./NASA_Outgassing_Materials_ML_Modelling.ipynb)
+- [NASA Outgassing Materials ML Pipeline](./NASA_Outgassing_Materials_ML_Pipeline.ipynb)
 
 ---
