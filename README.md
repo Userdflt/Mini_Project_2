@@ -1,5 +1,8 @@
-# **NASA Outgassing Materials Data Processing**
+# **Evaluating Material Performance for Space Applications**
+## **A Data Science Approach Using NASA’s Outgassing Data**
+---
 
+# **NASA Outgassing Materials Data Processing**
 ## Contents
 
 1. **Data Preprocessing**
