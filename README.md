@@ -1,7 +1,7 @@
 # **Evaluating Material Performance for Space Applications**
 ## **A Data Science Approach Using NASA’s Outgassing Data**
 
-<iframe src="https://docs.google.com/presentation/d/1eLjKQL-qADiG0ghYJBFTMOlsHNPNDCkT0KmYe-5Rn-0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Presentation](https://docs.google.com/presentation/d/1eLjKQL-qADiG0ghYJBFTMOlsHNPNDCkT0KmYe-5Rn-0/pub?start=false&loop=false&delayms=3000)
 ---
 
 # **NASA Outgassing Materials Data Processing**
